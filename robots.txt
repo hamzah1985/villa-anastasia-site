@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://villa-anastasia-aonang.com/sitemap.xml
