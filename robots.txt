@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hamzah1985.github.io/villa-anastasia-site/sitemap.xml
+Sitemap: https://anastasiakrabi.com/sitemap.xml

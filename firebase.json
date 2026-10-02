@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "villa-anastasia-aonang",
+    "public": ".",
+    "cleanUrls": true,
+    "headers": [
+      {
+        "source": "**/*.html",
+        "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+      }
+    ],
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**", "**/*.md"]
+  }
+}
